@@ -104,7 +104,7 @@ available.
 
 Research notice
 ~~~~~~~~~~~~~~~
-
+Please note this project is awesome.
 Please note that this repository is participating in a study into
 sustainability of open source projects. Data will be gathered about this
 repository for approximately the next 12 months, starting from June 2021.
